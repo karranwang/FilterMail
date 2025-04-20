@@ -22,3 +22,7 @@
 
 ```bash
 python main.py
+
+output/
+├── sorted_email.txt         # Jika memilih mode gabung
+├── A.txt, B.txt, ...        # Jika memilih mode per huruf

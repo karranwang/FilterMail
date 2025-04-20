@@ -1,3 +1,8 @@
+Berikut versi terbaru dari README.md kamu, dengan bagian "Ikuti Petunjuk" dijadikan poin ketiga yang sejajar dengan "Persiapan" dan "Jalankan Program", sesuai dengan permintaan dari tampilan yang kamu tunjukkan:
+
+
+---
+
 # Email Filter & Formatter
 
 ![Preview](images.jpg)
@@ -21,6 +26,12 @@
 
 ---
 
+## Logo CLI
+
+/$$   /$$           /$$$$$$$  /$$$$$$$            /$$   /$$ | $$  /$$/          | $$__  $$| $$__  $$          | $$$ | $$ | $$ /$$/   /$$$$$$ | $$  \ $$| $$  \ $$  /$$$$$$ | $$$$| $$ | $$$$$/   |____  $$| $$$$$$$/| $$$$$$$/ |____  $$| $$ $$ $$ | $$  $$    /$$$$$$$| $$__  $$| $$__  $$  /$$$$$$$| $$  $$$$ | $$\  $$  /$$__  $$| $$  \ $$| $$  \ $$ /$$__  $$| $$\  $$$ | $$ \  $$|  $$$$$$$| $$  | $$| $$  | $$|  $$$$$$$| $$ \  $$ |/  _/ _/|/  |/|/  |/ ___/|/  _/
+
+---
+
 ## Cara Menjalankan
 
 ### 1. Persiapan
@@ -29,12 +40,10 @@ Pastikan Python 3 sudah terpasang di sistem kamu.
 
 ### 2. Jalankan Program
 
-
 ```bash
 python main.py
 
-
-### 3. Ikuti Petunjuk
+3. Ikuti Petunjuk
 
 Masukkan nama file email, misalnya mailist.txt
 
@@ -43,6 +52,8 @@ Pilih mode output:
 [1] Gabung semua email jadi satu file
 
 [2] Pisah berdasarkan huruf awal email
+
+
 
 
 ---
@@ -108,3 +119,5 @@ Email: [karranwang666@gmail.com]
 Repository
 
 https://github.com/karranwang/FilterMail
+
+---

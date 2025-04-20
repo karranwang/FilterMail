@@ -1,8 +1,3 @@
-Berikut adalah README.md versi lengkap dan profesional untuk proyekmu, dengan penyesuaian logo, gambar, dan informasi penulis. Kamu tinggal menyesuaikan bagian nama dan URL repo GitHub kamu:
-
-
----
-
 # Email Filter & Formatter
 
 ![Preview](images.jpg)
@@ -29,6 +24,7 @@ Berikut adalah README.md versi lengkap dan profesional untuk proyekmu, dengan pe
 ## Cara Menjalankan
 
 ### 1. Persiapan
+
 Pastikan Python 3 sudah terpasang di sistem kamu.
 
 ### 2. Jalankan Program
@@ -41,7 +37,9 @@ python main.py
 Masukkan nama file email, misalnya mailist.txt
 
 Pilih mode output:
+
 [1] Gabung semua email jadi satu file
+
 [2] Pisah berdasarkan huruf awal email
 
 
@@ -52,6 +50,7 @@ Contoh Struktur Output
 output/
 ├── sorted_email.txt         # Jika memilih mode gabung
 ├── A.txt, B.txt, C.txt ...  # Jika memilih mode pisah per huruf
+
 
 ---
 
@@ -71,11 +70,17 @@ john@example.com
 toni@site.org
 
 
-## Kebutuhan Sistem
+---
+
+Kebutuhan Sistem
 
 Python 3.x
+
 Sistem operasi: Windows / Linux / Termux / MacOS
+
 Tidak membutuhkan library eksternal (pure Python)
+
+
 
 ---
 
@@ -83,15 +88,21 @@ Lisensi
 
 Proyek ini bersifat open-source dan bebas digunakan untuk keperluan pribadi, pembelajaran, atau pengolahan data internal. Mohon sertakan atribusi jika digunakan secara publik atau dikembangkan lebih lanjut.
 
+
 ---
 
 Penulis
 
 Nama: [Karran Wang]
+
 GitHub: https://github.com/karranwang
+
 Email: [karranwang666@gmail.com]
+
+
 
 ---
 
 Repository
+
 https://github.com/karranwang/FilterMail

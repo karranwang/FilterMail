@@ -29,8 +29,10 @@ Pastikan Python 3 sudah terpasang di sistem kamu.
 
 ### 2. Jalankan Program
 
+
 ```bash
 python main.py
+
 
 ### 3. Ikuti Petunjuk
 

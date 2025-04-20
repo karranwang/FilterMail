@@ -31,12 +31,9 @@ Pastikan Python 3 sudah terpasang di sistem kamu.
 
 ```bash
 python main.py
+```
 
-
----
-
-
-## Ikuti Petunjuk
+### 3. Ikuti Petunjuk
 
 Masukkan nama file email, misalnya mailist.txt
 

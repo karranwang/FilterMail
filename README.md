@@ -1,8 +1,3 @@
-Berikut versi terbaru dari README.md kamu, dengan bagian "Ikuti Petunjuk" dijadikan poin ketiga yang sejajar dengan "Persiapan" dan "Jalankan Program", sesuai dengan permintaan dari tampilan yang kamu tunjukkan:
-
-
----
-
 # Email Filter & Formatter
 
 ![Preview](images.jpg)

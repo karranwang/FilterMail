@@ -1,7 +1,3 @@
-# Email Filter & Formatter
-
-![Preview](images.jpg)
-
 ## Deskripsi
 
 **Email Filter & Formatter** adalah tool berbasis Python untuk membantu kamu membersihkan, memfilter, dan merapikan daftar email dari file teks. Tool ini sangat berguna bagi yang sering bekerja dengan data email mentah, seperti hasil scraping, database lama, atau file mailing list acak.
@@ -81,6 +77,16 @@ budi@webmail.com
 jane@domain.co.id
 john@example.com
 toni@site.org
+
+
+---
+### Demo 
+
+Termux
+
+![Preview](images.jpg)
+
+Desktop
 
 
 ---

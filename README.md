@@ -28,7 +28,13 @@
 Pastikan Python 3 sudah terpasang di sistem kamu.
 
 Pastikan kamu sudah memiliki file mailist.txt nya
+
 jika belum, maka buat terlebih dahulu
+
+```bash
+Termux
+nano mailist.txt
+```
 
 ### 2. Jalankan Program
 

@@ -110,13 +110,13 @@ Proyek ini bersifat open-source dan bebas digunakan untuk keperluan pribadi, pem
 
 ---
 
-Penulis
+Author
 
-Nama: [Karran Wang]
+Nama: Karran Wang
 
 GitHub: https://github.com/karranwang
 
-Email: [karranwang666@gmail.com]
+Email: karranwang666@gmail.com
 
 
 

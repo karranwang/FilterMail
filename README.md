@@ -27,6 +27,9 @@
 
 Pastikan Python 3 sudah terpasang di sistem kamu.
 
+Pastikan kamu sudah memiliki file mailist.txt nya
+jika belum, maka buat terlebih dahulu
+
 ### 2. Jalankan Program
 
 ```bash

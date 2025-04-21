@@ -88,7 +88,7 @@ Termux
 
 Desktop
 
-
+![Preview](images2.jpg)
 ---
 
 Kebutuhan Sistem

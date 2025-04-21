@@ -1,12 +1,12 @@
 ## Preview
 
+Desktop
+
+![Preview](image2.jpg)
+
 Termux
 
 ![Preview](images.jpg)
-
-Desktop
-
-![Preview](images2.jpg)
 
 ## Deskripsi
 

@@ -34,6 +34,10 @@ jika belum, maka buat terlebih dahulu
 ### 2. Jalankan Program
 
 ```bash
+nano mailist.txt
+```
+
+```bash
 python main.py
 ```
 

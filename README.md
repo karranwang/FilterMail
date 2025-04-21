@@ -2,7 +2,7 @@
 
 Desktop
 
-![Preview](image2.jpg)
+![Preview](images2.jpg)
 
 Termux
 

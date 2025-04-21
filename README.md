@@ -51,6 +51,7 @@ Pilih mode output:
 Contoh Struktur Output
 
 output/
+
 ├── sorted_email.txt         # Jika memilih mode gabung
 
 ├── A.txt, B.txt, C.txt ...  # Jika memilih mode pisah per huruf
